@@ -4,8 +4,7 @@
 Thailand 30 year historical lottery data was downloaded from the internet. Extracted the winning numbers by digit place and put them into individual columns.
 
 ## Data
-<p>All data files are included in the <a href="./Data">Data</a> 
-  folder of this repository. Following are file names and a brief description.</p>
+<p>Following are file names and a brief description.</p>
 
 ### 30Y_preproc.csv
 <p>The file contains Day, Month, Year, and the winning numbers in separate columns. Each winning numbers was extracted according to its digit location and put into separate columns. For example, the number '123' in column '3ตัวบน' was extracted as:</p>
