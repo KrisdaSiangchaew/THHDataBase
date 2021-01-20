@@ -1,4 +1,4 @@
-# THHCalculator
+# THHDataBase
 
 ## Background
 Thailand 30 year historical lottery data was downloaded from the internet. Extracted the winning numbers by digit place and put them into individual columns.
